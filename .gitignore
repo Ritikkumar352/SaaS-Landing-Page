@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Production build output
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local env files
+.env
+.env.*.local
+.env.local
+
+# Optional: next/image cache
+.cache/
+
+# VS Code settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Output from static export
+*.zip
+
+# Optional: Mac system files
+.AppleDouble
+.LSOverride
+
+# Ignore lockfiles if not using them (optional)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
